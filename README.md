@@ -91,24 +91,8 @@ After training and optimizing the models, the following accuracies were achieved
    pip install -r requirements.txt
    ```
 
-3. **Prepare Data**:
+3. **Run the jupyter notebook**:
    Place your alert dataset in CSV format as `task1.csv` in the root folder.
-
-4. **Train the Model**:
-   Run the training process to classify alerts:
-   ```bash
-   python train_model.py
-   ```
-
-5. **Evaluate the Model**:
-   The evaluation results, including accuracy and classification reports, will be printed.
-
-6. **Classify New Alerts**:
-   You can classify new alert data using the pre-trained models with:
-   ```bash
-   python classify_new_alerts.py
-   ```
-
 ---
 
 ## 📈 Final Results
