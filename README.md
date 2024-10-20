@@ -79,20 +79,10 @@ After training and optimizing the models, the following accuracies were achieved
 
 ## 🚀 How to Use
 
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/your-repo/alert-classification-lstm.git
-   cd alert-classification-lstm
-   ```
-
-2. **Install Dependencies**:
-   Make sure you have the required libraries installed:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the jupyter notebook**:
+1. **Run the jupyter notebook**:
    Place your alert dataset in CSV format as `task1.csv` in the root folder.
+
+   > Note : Notebook includes base method with hyper param tunning as well which helped me to improve the classification accuracy
 ---
 
 ## 📈 Final Results
